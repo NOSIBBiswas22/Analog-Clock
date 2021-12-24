@@ -246,6 +246,7 @@ a {
 .clock__text {
   display: flex;
   justify-content: center;
+  margin-left: 25px;
 }
 
 .clock__text-hour, 
@@ -266,6 +267,7 @@ a {
   text-align: center;
   font-size: var(--small-font-size);
   font-weight: var(--font-medium);
+  margin-left: 12px;
 }
 
 /*=============== MEDIA QUERIES ===============*/
